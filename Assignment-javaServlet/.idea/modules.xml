@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assgiment-j-main.iml" filepath="$PROJECT_DIR$/.idea/Assgiment-j-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assgiment/javaservelet.iml" filepath="$PROJECT_DIR$/assgiment/javaservelet.iml" />
+    </modules>
+  </component>
+</project>
